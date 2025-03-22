@@ -10,8 +10,8 @@ After you install Steamodded, Download the #ReTubed file, which contains an asse
 
 If you need any help or questions feel free to send me a message request at my discord (@alphermebo) or a dm to my bluesky (@alphermebo.bsky.social).
 
-Characters from shows depicted belong to their respective creators.
-Rainbow Bagel, Red Velvet and Picky from MAHAS by Minecags
-Clock, Polka Dot, No Way from ITFT by Derpadon
-Fossil, Holy Water and Curranty from FOSSIL by Flaming
-Bean, Enderpearl and Money Man from Bean's Show by Sacri
+Characters from shows depicted belong to their respective creators:<br>
+Rainbow Bagel, Red Velvet and Picky from MAHAS by Minecags<br>
+Clock, Polka Dot, No Way from ITFT by Derpadon<br>
+Fossil, Holy Water and Curranty from FOSSIL by Flaming<br>
+Bean, Enderpearl and Money Man from Bean's Show by Sacri<br>
