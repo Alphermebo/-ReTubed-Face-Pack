@@ -1,0 +1,13 @@
+{
+	"id": "retubedosc",
+	"name": "#ReTubed Face Cards",
+	"author": ["Alphermebo"],
+	"description": "Commemorate #ReTubed with your favorite characters from MAHAS, ITFT, FOSSIL and Bean's Show!",
+	"prefix": "retubedoscfaces",
+	"badge_colour": "#c23c47",
+	"dependencies": [
+		"Steamodded (>=1.0.0~BETA-0312b)"
+	],
+	"main_file": "DeckSkinTemplate.lua",
+	"version": "1.0.1"
+}
